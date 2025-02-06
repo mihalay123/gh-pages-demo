@@ -20,5 +20,5 @@ export default defineConfig({
       ],
     }),
   ],
-  base: '/',
+  base: '/gh-pages-demo/',
 });
