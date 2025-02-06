@@ -9,10 +9,6 @@ export default defineConfig({
     svgr(),
     viteStaticCopy({
       targets: [
-        // {
-        //   src: './CNAME',
-        //   dest: './',
-        // },
         {
           src: './src/assets/fonts',
           dest: './assets',
